@@ -1,32 +1,7 @@
 # C-xrefactory - A refactoring tool for C/Java and Emacs
 
-Once apon a time there was [http://www.xref.sk](http://www.xref.sk), a
-site promoting possibly the worlds first refactoring browser to cross
-the ["Refactoring's
-Rubicon"](http://martinfowler.com/articles/refactoringRubicon.html).
+Once there was [http://www.xref.sk](http://www.xref.sk) providing a free Java and C version, and a paid C++ version of xref. Development seems to have been headed by a [Marián Vittek](http://dai.fmph.uniba.sk/w/Marian_Vittek/en), but it has been no support on [http://www.xref.sk](http://www.xref.sk) (mostly) for many years.  Later, c-xref, a limited to C and Emacs branch of xref,  is  available under GPL already 2009 on  [SourceForge](http://sourceforge.net/projects/c-xref/) by Marián.
 
-At that time it had a free Java and C version, and a paid C++
-version. Development seems to have been headed by a [Marián
-Vittek](http://dai.fmph.uniba.sk/w/Marian_Vittek/en).
+Thomas Nilefalk decided to pick this up and moving it to GitHub. Although C-xref pretends to be only for C, it is all but identical to the full C/Java browser.
 
-Marián have been hard to track down and
-[http://www.xref.sk](http://www.xref.sk) seems to be going up and
-(mostly) down and there has been no support for many years.
-
-Marián made a C-version, c-xref, available under GPL already 2009 on
-[SourceForge](http://sourceforge.net/projects/c-xref/) which is
-limited to C and Emacs.
-
-As I'm almost dependent on this and refactoring tools for C is sadly
-lacking, I decided to pick this up and work a bit on it, maybe even
-make it a [bit more visible](http://sourceforge.net/projects/c-xref/),
-by moving it to GitHub. Although C-xref pretends to be only for C, it
-is all but identical to the full C/Java browser.
-
-No-one would be more happy than me if the C++ version where also put
-in the public domain.
-
-If someone has contact with Marián, please inform him and ask him to
-contact me. Perhaps we can create something great from this together
-with others who might be interested.
-
+For newbies, However, trying to use it beyond the scope of C/java, is not so trival.  I decide to fork this in 2016 focusing to make it to cover the  support of Processing and Ardurino languages, so students, makers and educators can be benefit from using it to build a project quickly yet remain the option for making a much larger software project as the software professsionals.
